@@ -1,0 +1,103 @@
+,State,State Code,drug,population_16,Name,Gender,State Deaths,Age,Age Expectancy,Lost Years,status,Median Income
+0,Alabama,1,Toxic Poisoning,4863300,Lucie,F,46,19,74,55,Resident Alien,56929
+1,Alaska,2,Toxic Poisoning,741894,Layken,M,66,36,73,37,Resident Alien,81133
+2,Arizona,4,Overdose,6931071,Kassidy,M,33,32,82,50,Resident Alien,70821
+3,Arkansas,5,Toxic Poisoning,2988248,Tymber,M,88,19,75,56,Resident Alien,50784
+4,California,6,Toxic Poisoning,39250017,Tatym,F,11,35,70,35,Resident Alien,81575
+5,Colorado,8,Overdose,5540545,Johanny,F,9,27,69,42,Resident Alien,84954
+6,Connecticut,9,Toxic Poisoning,3576452,Emmary,F,100,40,75,35,Resident Alien,80958
+7,Delaware,10,Toxic Poisoning,952065,Sierra,F,11,23,73,50,Resident Alien,68687
+8,District of Columbia,11,Overdose,681170,Sruly,M,13,43,79,36,Resident Alien,90640
+9,Florida,12,Overdose,20612439,Aliaa,F,116,17,74,57,Resident Alien,59734
+10,Georgia,13,Overdose,10310371,Tatum,F,81,24,75,51,Citizen,61497
+11,Hawaii,15,Overdose,1428557,Carmen,M,49,34,64,30,Resident Alien,82199
+12,Idaho,16,Toxic Poisoning,1683140,Kendyl,F,94,25,76,51,Resident Alien,76918
+13,Illinois,17,Toxic Poisoning,12801539,Kaaliyah,F,71,31,79,48,Citizen,79253
+14,Indiana,18,Toxic Poisoning,6633053,Milano,M,58,31,75,44,Resident Alien,70190
+15,Iowa,19,Toxic Poisoning,3134693,Naleah,F,15,28,73,45,Resident Alien,72429
+16,Kansas,20,Overdose,2907289,Evann,F,27,29,70,41,Resident Alien,75979
+17,Kentucky,21,Toxic Poisoning,4436974,Janiylah,F,40,16,70,54,Resident Alien,55629
+18,Louisiana,22,Toxic Poisoning,4681666,Zehaan,M,3,20,79,59,Citizen,57206
+19,Maine,23,Overdose,1331479,Everardo,M,18,22,74,52,Resident Alien,71139
+20,Maryland,24,Overdose,6016447,Avante,M,46,27,72,45,Citizen,97332
+21,Massachusetts,25,Toxic Poisoning,6811779,Skyler,M,31,33,75,42,Resident Alien,86566
+22,Michigan,26,Toxic Poisoning,9928300,Zaviah,F,78,22,70,48,Unidentified,64488
+23,Minnesota,27,Toxic Poisoning,5519952,Amierah,F,34,39,67,28,Resident Alien,80441
+24,Mississippi,28,Overdose,2988726,Kawika,M,36,19,75,56,Citizen,46637
+25,Missouri,29,Toxic Poisoning,6093000,Macyn,M,79,16,73,57,Citizen,63594
+26,Montana,30,Overdose,1042520,Alyx,M,93,26,80,54,Citizen,64999
+27,Nebraska,31,Overdose,1907116,Hosna,F,15,18,77,59,Citizen,78109
+28,Nevada,32,Overdose,2940058,Aladdin,M,40,23,75,52,Resident Alien,64340
+29,New Hampshire,33,Overdose,1334795,Tula,F,83,40,79,39,Citizen,88841
+30,New Jersey,34,Toxic Poisoning,8944469,Deairra,F,42,32,79,47,Resident Alien,88559
+31,New Mexico,35,Toxic Poisoning,2081015,Taim,M,67,17,75,58,Citizen,53463
+32,New York,36,Overdose,19745289,Breckan,M,57,28,74,46,Resident Alien,72920
+33,North Carolina,37,Overdose,10146788,Kyler,F,28,21,71,50,Unidentified,62891
+34,North Dakota,38,Toxic Poisoning,757952,Denny,M,111,18,78,60,Resident Alien,68882
+35,Ohio,39,Toxic Poisoning,11614373,Lochlan,F,38,21,74,53,Citizen,62689
+36,Oklahoma,40,Overdose,3923561,Janitza,F,71,19,81,62,Citizen,60096
+37,Oregon,41,Overdose,4093465,Liliah,F,29,30,80,50,Unidentified,81855
+38,Pennsylvania,42,Overdose,12784227,Cielo,M,16,30,79,49,Resident Alien,72627
+39,Rhode Island,44,Overdose,1056426,Praneel,M,85,28,74,46,Citizen,74982
+40,South Carolina,45,Toxic Poisoning,4961119,Whitfield,M,21,22,75,53,Citizen,62542
+41,South Dakota,46,Toxic Poisoning,865454,Eyden,M,109,26,76,50,Resident Alien,73893
+42,Tennessee,47,Overdose,6651194,Sherri,F,6,21,75,54,Resident Alien,62166
+43,Texas,48,Toxic Poisoning,27862596,Devorah,F,102,17,77,60,Resident Alien,67404
+44,Utah,49,Overdose,3051217,Yaqeen,M,6,31,78,47,Resident Alien,87649
+45,Vermont,50,Toxic Poisoning,624594,Ganesh,M,49,27,75,48,Resident Alien,76079
+46,Virginia,51,Overdose,8411808,Nasteho,F,9,36,67,31,Citizen,80268
+47,Washington,53,Overdose,7288000,Kairo,M,100,37,78,41,Citizen,87648
+48,West Virginia,54,Overdose,1831102,Jibran,M,80,18,68,50,Resident Alien,46836
+49,Wisconsin,55,Overdose,5778708,Aubrei,F,42,19,76,57,Resident Alien,69943
+50,Wyoming,56,Overdose,585501,Afiyah,F,19,31,74,43,Citizen,71052
+51,Alabama,1,Overdose,4863300,Layden,M,46,15,80,65,Citizen,56929
+52,Alaska,2,Toxic Poisoning,741894,Alber,M,66,53,71,18,Resident Alien,81133
+53,Arizona,4,Toxic Poisoning,6931071,Dyamond,F,33,26,79,53,Resident Alien,70821
+54,Arkansas,5,Toxic Poisoning,2988248,Jakarri,M,88,21,73,52,Resident Alien,50784
+55,California,6,Toxic Poisoning,39250017,Harvie,M,11,32,68,36,Resident Alien,81575
+56,Colorado,8,Overdose,5540545,Nyles,M,9,31,74,43,Resident Alien,84954
+57,Connecticut,9,Toxic Poisoning,3576452,Joon,M,100,44,75,31,Resident Alien,80958
+58,Delaware,10,Overdose,952065,Anajulia,F,11,19,71,52,Resident Alien,68687
+59,District of Columbia,11,Toxic Poisoning,681170,Victoria,F,13,24,76,52,Resident Alien,90640
+60,Florida,12,Overdose,20612439,Wyatt,M,116,17,77,60,Citizen,59734
+61,Georgia,13,Overdose,10310371,Warsame,M,81,22,72,50,Resident Alien,61497
+62,Hawaii,15,Toxic Poisoning,1428557,Azarah,F,49,29,72,43,Resident Alien,82199
+63,Idaho,16,Toxic Poisoning,1683140,Kolden,M,94,25,76,51,Resident Alien,76918
+64,Illinois,17,Toxic Poisoning,12801539,Louella,F,71,28,78,50,Resident Alien,79253
+65,Indiana,18,Overdose,6633053,Jenasis,F,58,30,72,42,Unidentified,70190
+66,Iowa,19,Overdose,3134693,Moira,F,15,30,72,42,Resident Alien,72429
+67,Kansas,20,Overdose,2907289,Beren,M,27,35,75,40,Citizen,75979
+68,Kentucky,21,Overdose,4436974,Calvary,F,40,15,77,62,Resident Alien,55629
+69,Louisiana,22,Toxic Poisoning,4681666,Habib,M,3,18,75,57,Resident Alien,57206
+70,Maine,23,Toxic Poisoning,1331479,Erick,M,18,29,80,51,Resident Alien,71139
+71,Maryland,24,Toxic Poisoning,6016447,Emerleigh,F,46,33,72,39,Resident Alien,97332
+72,Massachusetts,25,Toxic Poisoning,6811779,Damonie,M,31,30,72,42,Citizen,86566
+73,Michigan,26,Overdose,9928300,Rhyden,M,78,19,75,56,Citizen,64488
+74,Minnesota,27,Toxic Poisoning,5519952,Derius,M,34,34,77,43,Resident Alien,80441
+75,Mississippi,28,Overdose,2988726,Josafat,M,36,15,73,58,Resident Alien,46637
+76,Missouri,29,Overdose,6093000,Ryelee,F,79,24,80,56,Citizen,63594
+77,Montana,30,Toxic Poisoning,1042520,Dionicio,M,93,18,76,58,Resident Alien,64999
+78,Nebraska,31,Overdose,1907116,Sylus,M,15,18,71,53,Unidentified,78109
+79,Nevada,32,Overdose,2940058,Dwayne,M,40,27,69,42,Resident Alien,64340
+80,New Hampshire,33,Overdose,1334795,Ireoluwa,F,83,39,78,39,Resident Alien,88841
+81,New Jersey,34,Overdose,8944469,Rhettlee,M,42,38,72,34,Resident Alien,88559
+82,New Mexico,35,Toxic Poisoning,2081015,Araiya,F,67,17,66,49,Citizen,53463
+83,New York,36,Overdose,19745289,Parneet,F,57,23,76,53,Resident Alien,72920
+84,North Carolina,37,Overdose,10146788,Emuna,F,28,23,75,52,Citizen,62891
+85,North Dakota,38,Toxic Poisoning,757952,Trayon,M,111,23,70,47,Resident Alien,68882
+86,Ohio,39,Overdose,11614373,Brexten,M,38,24,71,47,Resident Alien,62689
+87,Oklahoma,40,Overdose,3923561,Ashraf,M,71,18,76,58,Resident Alien,60096
+88,Oregon,41,Overdose,4093465,Apollo,F,29,27,78,51,Citizen,81855
+89,Pennsylvania,42,Overdose,12784227,Mylei,F,16,31,77,46,Resident Alien,72627
+90,Rhode Island,44,Toxic Poisoning,1056426,Everson,M,85,24,79,55,Resident Alien,74982
+91,South Carolina,45,Overdose,4961119,Lexee,F,21,21,72,51,Citizen,62542
+92,South Dakota,46,Overdose,865454,Nyveah,F,109,25,79,54,Resident Alien,73893
+93,Tennessee,47,Toxic Poisoning,6651194,Cailey,F,6,16,70,54,Resident Alien,62166
+94,Texas,48,Overdose,27862596,Raysen,M,102,22,76,54,Unidentified,67404
+95,Utah,49,Overdose,3051217,Zohaan,M,6,31,81,50,Resident Alien,87649
+96,Vermont,50,Overdose,624594,Sabirah,F,49,28,73,45,Citizen,76079
+97,Virginia,51,Overdose,8411808,Aalaya,F,9,24,73,49,Resident Alien,80268
+98,Washington,53,Toxic Poisoning,7288000,Riyan,F,100,35,76,41,Resident Alien,87648
+99,West Virginia,54,Overdose,1831102,Kinsly,F,80,19,78,59,Resident Alien,46836
+100,Wisconsin,55,Overdose,5778708,Gadi,M,42,17,81,64,Citizen,69943
+101,Wyoming,56,Toxic Poisoning,585501,Kailan,M,19,30,78,48,Resident Alien,71052
